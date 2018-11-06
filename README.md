@@ -7,6 +7,8 @@ Please cite our paper (citation details below) properly, if you use the code for
 
 This code is only for academic and research purposes. Commerical use of this code is not permitted.
 
+#### NOTE: There is also a real-time implementation of this algorithm (in C) available at <https://github.com/DevD1092/spr_riav_real_time>
+
 Citation of the paper "A rotation-invariant additive vector sequence based star pattern recognition":
 @article{samirbhai2018rotation,<br />
   title={A rotation-invariant additive vector sequence based star pattern recognition},<br />
