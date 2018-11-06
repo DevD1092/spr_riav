@@ -8,10 +8,10 @@ Please cite our paper (citation details below) properly, if you use the code for
 This code is only for academic and research purposes. Commerical use of this code is not permitted.
 
 Citation of the paper "A rotation-invariant additive vector sequence based star pattern recognition":
-@article{samirbhai2018rotation,
-  title={A rotation-invariant additive vector sequence based star pattern recognition},
-  author={Samirbhai, Mehta Deval and Chen, Shoushun and Low, Kay Soon},
-  journal={IEEE Transactions on Aerospace and Electronic Systems},
-  year={2018},
-  publisher={IEEE}
+@article{samirbhai2018rotation,<br />
+  title={A rotation-invariant additive vector sequence based star pattern recognition},<br />
+  author={Samirbhai, Mehta Deval and Chen, Shoushun and Low, Kay Soon},<br />
+  journal={IEEE Transactions on Aerospace and Electronic Systems},<br />
+  year={2018},<br />
+  publisher={IEEE}<br />
 }
