@@ -21,7 +21,7 @@ Citation of the paper "A rotation-invariant additive vector sequence based star 
 
 ## Repository details
 
-This repository contains four folders. The information about each of the folder is described as below.
+This repository contains three folders. The information about each of the folder is described as below.
 
 #### 1. simulate - Codes for simulating the star images
 &nbsp;&nbsp;&nbsp;&nbsp; Convert_Axis_2_AttitudeMatrix.m -- For converting the ECI (Star position in the catalog) frame to the camera frame (Star sesnsor).<br />
