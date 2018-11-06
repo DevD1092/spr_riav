@@ -1,6 +1,5 @@
 % This script is to test the proposed star recognition algorithm
 
-
 clear all;
 
 clc;
@@ -142,14 +141,6 @@ match_check = [];
 % starnum_ad_frm_sra=zeros(size(RA,1),size(DEC,2));
 
 % starnum_fov_frm_ad=zeros(size(RA,1),size(DEC,2));
-
-% % SPD Read:
-%         
-%         SPD_top_4_dist = dlmread('F:\Amine-CMOS-Imager\Literature Review\P_Star_Tracker\Implementation\Local_vector_reference_frame\SPD\SPD_top_4_dist_list_Mv_6_3.txt');
-%         SPD_vect_patt_dist_1 = dlmread('F:\Amine-CMOS-Imager\Literature Review\P_Star_Tracker\Implementation\Local_vector_reference_frame\SPD\SPD_vect_patt_Mv_6_3_dist_1.txt');
-%         SPD_vect_patt_dist_2 = dlmread('F:\Amine-CMOS-Imager\Literature Review\P_Star_Tracker\Implementation\Local_vector_reference_frame\SPD\SPD_vect_patt_Mv_6_3_dist_2.txt');
-%         SPD_vect_patt_dist_3 = dlmread('F:\Amine-CMOS-Imager\Literature Review\P_Star_Tracker\Implementation\Local_vector_reference_frame\SPD\SPD_vect_patt_Mv_6_3_dist_3.txt');
-%         SPD_vect_patt_dist_4 = dlmread('F:\Amine-CMOS-Imager\Literature Review\P_Star_Tracker\Implementation\Local_vector_reference_frame\SPD\SPD_vect_patt_Mv_6_3_dist_4.txt');
 
 %% THE LOOP FOR GENERATING IMAGES
 
@@ -535,30 +526,3 @@ for ii = 1:size(RA,1)
         
     end
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
